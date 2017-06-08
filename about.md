@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Rory 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I am a year 9 IT student currently learning how to do lots of cool stuff like code and use google sheets, and I blog about it every week, hence the name "Blogs Weekly"
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](emailme@myemailaddress.com)
